@@ -1,0 +1,19 @@
+{
+  "name": "weddingsite",
+  "version": "1.0.0",
+  "description": "Web site for Fer and Nachos wedding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igeagonz/WeddingSite.git"
+  },
+  "author": "Ignacio Gea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igeagonz/WeddingSite/issues"
+  },
+  "homepage": "https://github.com/igeagonz/WeddingSite#readme"
+}
